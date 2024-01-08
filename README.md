@@ -1,4 +1,4 @@
-# WSU Composition Studio Handbook
+# Studio Handbook
 
 ## Listening Discussions
 
