@@ -1,9 +1,10 @@
 ---
-title: WSU Composition Studio Handbook
+title: Area Handbook
 ---
 
 # {{page.title}}
 
+- Contents
 {:toc}
 
 ## Listening Discussions
