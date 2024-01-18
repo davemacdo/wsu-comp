@@ -1,5 +1,5 @@
 ---
-title: WSU Composition Studio Handbook
+title: Home
 ---
 
 # Listening Discussions
