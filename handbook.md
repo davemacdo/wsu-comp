@@ -1,11 +1,13 @@
 ---
 title: Area Handbook
+kramdown: 
+    toc_levels: 2,3
 ---
 
 # {{page.title}}
 
 - Contents
-{:toc toc_levels="1,2"}
+{:toc}
 
 ## Listening Discussions
 
