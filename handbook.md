@@ -1,7 +1,5 @@
 ---
 title: Area Handbook
-kramdown: 
-    toc_levels: 2,3
 ---
 
 # {{page.title}}
