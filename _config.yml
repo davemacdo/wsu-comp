@@ -4,4 +4,4 @@ description: information for composers at Wichita State university
 show_downloads: false
 theme: jekyll-theme-minimal
 kramdown: 
-    toc_levels: 1
+    toc_levels: 1..1
