@@ -5,7 +5,7 @@ title: Area Handbook
 # {{page.title}}
 
 - Contents
-{:toc}
+{:toc toc_levels="1,2"}
 
 ## Listening Discussions
 
