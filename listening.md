@@ -13,7 +13,7 @@ See studio class Discord for discussions and listening links.
 - Week 6
 	- Iannis Xenakis: _Rebonds B_ (1987 - 89)
 - Week 7
-	- Oliver Messiaen: _Quatour pour la fin du temps_ (1941)
+	- Olivier Messiaen: _Quatour pour la fin du temps_ (1941)
 - Week 8
 	- Galina Ustvolskaya: Piano Sonata No. 5 (1986)
 - Week 9
