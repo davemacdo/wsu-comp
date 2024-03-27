@@ -119,7 +119,35 @@ All composition studio members are eligible to present works on composition reci
 
 # Composition Juries
 
-TBD
+Juries are required for all composition majors and selected non-composition majors (at the discretion of the instructor). Students presenting a degree recital or thesis are exempt from the jury in that semester. The jury panel will consist of at least two members of the the music faculty. 
+
+Juries will last 15-20 minutes and be scheduled during the final exams period. During the jury, students will be expected to discuss and answer questions about their compositional process and explain specific creative decisions. At the end of the jury, faculty will discuss with the student the things that they did particularly well, things that they may wish to focus on in future studies, and considerations for further creative and professional endeavors. 
+
+Students should submit the following materials in advance of the jury, due the Friday before the final exams period: 
+
+- completed scores
+   - PDF of completed scores, formatted correctly
+   - include any appropriate frontmatter, including a program note
+   - all sections (including frontmatter and any movements) should be merged into a single PDF file
+   - interactive components (eg. a MaxMSP patch) if possible
+- parts (optional)
+   - your professor may ask you to submit parts
+- partially completed scores
+   - PDF of completed sections or drafts of a work-in-progress (eg. two movements of a three-movement string quartet, or the completed “short score” of a work you will later orchestrate)
+- performances/recordings
+   - PDF of any concert programs of live performances of your compositions from this semester (meaning the performance was this semester, even you wrote the music before this semester)
+   - recordings of performances (MP3 audio or link to streaming audio or video in a separate document)
+   - studio recordings
+   - recordings of any electronic/electroacoustic works
+   - where possible, audio realizations of new works written in notation software
+- up-to-date list of compositions
+   - single PDF document listing all completed works written in your composition studies, in reverse chronological order
+   - for each work, include the year completed, instrumentation, and duration; you may also indicate information about performances of the work
+   - [example list of works](https://www.dropbox.com/scl/fi/2gjb7rx98h93ehpuq920z/Example-list-of-works.pdf?rlkey=gtqxx3koad5xriuk49ueplszw&dl=0)
+
+Do not submit “project” files from notation applications (.dorico, .sib, .mscz, .musx). Only PDFs, MP3s, or other completed/finished formats. If you’re unsure about a file, format, or whether any particular composition should be included, ask your instructor.
+
+Once you have compiled all the components of the submission, compress them into a single .zip file and upload to Blackboard.
 
 # Composition Barrier Portfolio
 
