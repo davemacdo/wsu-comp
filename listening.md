@@ -1,32 +1,34 @@
 See studio class Discord for discussions and listening links. 
 
-## Spring 2024
+## Fall 2024
 
 - Week 2
-	- Dmitri Shostakovich: String Quartet No. 12 (1968)
+	- Laura Schwendinger: _Creature Quartet_ (2015)
 - Week 3
-	- Olga Neuwirth: _Trurl-Tichy-Tinkle_ (2016)
+    - Olly Wilson: _A City Called Heaven_ (1998) 
 - Week 4
-	- Raven Chacon: _For Jacqueline Wilson_ (2019)
+	- Thomas Adés: _Catch_ (1991)
 - Week 5
-	- Judith Lang Zaimont: _Jupiter's Moons_ (2000) 
+	- William Albright: _Doo-dah_ (1975)
 - Week 6
-	- Iannis Xenakis: _Rebonds B_ (1987 - 89)
+	- Luciano Berio: _Sequenza VII for Oboe_ (1969)
 - Week 7
-	- Olivier Messiaen: _Quatour pour la fin du temps_ (1941)
+	- Steven Mackey: _It Is Time_ (2010)
 - Week 8
-	- Galina Ustvolskaya: Piano Sonata No. 5 (1986)
+	- Arnold Schoenberg: _Pierrot Lunaire_ (1912)
 - Week 9
-	- Louis Andriessen: _Workers Union_ (1975)
+	- no assignment 🍂 break
 - Week 10
-	- Panayiotis Kokoras: _Mutation_ (2014)
+	- Timo Andres: _Checkered Shade_ (2015)
 - Week 11
-	- Elliott Carter: _Eight Pieces for Four Timpani_ (1949, 1966)
+	- Tania León: _One Mo' Time_ (2016)
 - Week 12
-	- Stefania Turkewich: _Emigration Elegy_ 
+	- Charles Ives: _The Unanswered Question_ (1908)
 - Week 13
-	- Béla Bartók: Concerto for Orchestra (1943)
+	- Lūcija Garūta: _God, Your Land is Burning!_ (1943)
 - Week 14
-	- Alban Berg: Violin Concerto (1935)
+	- Edward Elgar: _Introduction and Allegro_ (1905)
 - Week 15
-	- John Adams: _Son of Chamber Symphony_ (2007)
+	- no assignment 🦃 break
+- Week 16
+	- György Ligeti: _L'escalier du diable_ from Piano Études, Book 2 (1988-94)
