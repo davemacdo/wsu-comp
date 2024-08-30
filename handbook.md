@@ -75,6 +75,14 @@ All composition studio members are eligible to present works on composition reci
 - **Don't grovel.** When approaching performers, don't just ask them to play your music; ask them to collaborate with you. There is a difference between "Will you please practice this eight-minute piece, attend four rehearsals, and give a performance?" and "I would really like to collaborate with you. Would you like to work with me on this piece?" Help them feel ownership over the project and privileged to be a part of bringing to life a *brand new piece of music that nobody has ever heard before!*
 - **Say "thank you."** It may be obvious, but just saying thank you means a lot. You aren't expected to pay your performers for this sort of curricular recital, but saying thank you and maybe buying them a coffee wouldn't go amiss.
 
+# Writing expectations
+
+Writing music is a _practice_. Getting in a habit of regular writing is just as important for composers as regular practice is for performers. Spending an hour every day writing music for a week will nearly always yield more and better creative work than writing for seven hours on one day. The following are minimum expectations based on the composition course you're enrolled in. 
+
+- **MUSC 260**: 30-45 min., four days/week
+- **MUSC 560 and 660**: 45-60 minutes, _every day_
+- **MUSC 860 and above**: 60+ minutes, _every day_
+
 # Studio resources
 
 - [Composition Major Application Portfolio Guide](https://www.craft.do/s/d3KauwK0mA4lvq) (applying for upper division studies, MUSC 560)
