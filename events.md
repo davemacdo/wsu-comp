@@ -4,24 +4,24 @@ title: Events
 
 Attendance at the following events is _required_ for all composition majors. 
 
-**WSU Symphony Orchestra Concerto-Aria Concert**  
-13 Feb 2024, 7:30p  
+**WSU Symphony Orchestra**  
+Tue, 29 Oct 2024, 7:30p  
 Miller Concert Hall  
-World premiere of a new work by Dr. Roush
+World premiere of a new violin concerto by [Robert Hagenbuch, Jr.](https://www.roberthagenbuchjr.com/)
 
-**Jazz Arts I**  
-29 Feb 2024, 7:30p  
-Walker's Jazz Lounge  
-World premiere of a new work by Doug Ragon
+**KNOB Festival of New Music**  
+7-9 Nov 2024, 8:00p  
+Fisch Haus (524 S Commerce St)  
+Students are required to attend at least one night of KNOB, and it would be great if you could swing more than that.
 
-**Composition Studio Recital**  
-18 Apr 2024, 2:00p  
-Wiedemann Recital Hall
+**Emma Lippert, senior composition recital**  
+Tue, 12 Nov 2024, 2:30p  
+Miller Concert Hall  
 
 **Impulse Percussion Group**  
-22 Apr 2024, 7:30p  
+Mon, 25 Nov 2024, 7:30p  
 Miller Concert Hall
 
 ### TBD Events (still required!)
 
-- **Gehrig Hett, senior composition recital**
+- **Morgan Hunt, senior composition recital**
