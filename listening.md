@@ -15,7 +15,7 @@ See studio class Discord for discussions and listening links.
 - Week 7
 	- Steven Mackey: _It Is Time_ (2010)
 - Week 8
-	- Arnold Schoenberg: _Pierrot Lunaire_ (1912)
+	- Joan Tower: _Sixth Fanfare for the Uncommon Woman_ (2014)
 - Week 9
 	- no assignment 🍂 break
 - Week 10
