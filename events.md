@@ -20,8 +20,8 @@ Miller Concert Hall
 
 **Impulse Percussion Group**  
 Mon, 25 Nov 2024, 7:30p  
-Miller Concert Hall
+Miller Concert Hall  
 
-### TBD Events (still required!)
-
-- **Morgan Hunt, senior composition recital**
+**Morgan Hunt, senior composition recital**  
+Tue, 26 Nov 2024, 7:30p  
+Miller Concert Hall  
