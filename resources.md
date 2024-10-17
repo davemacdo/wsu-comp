@@ -6,7 +6,7 @@ title: Resources for composers
 
 - [Instrument Ranges (from Adler’s *The Study of Orchestration*)](https://www.dropbox.com/s/lqvkzbpzx9pup9i/Instrument%20Ranges%20%28Adler%29.pdf?dl=0)
 - [Score Preparation and Production [Scoring Notes]](https://www.scoringnotes.com/tips/score-preparation-production-notes/)
-- [Writing Program Notes](https://www.craft.do/s/7fN0Cuq4LTPLOJ)
+- [Writing Program Notes](https://leftuseless.net/2017/10/23/writing-program-notes/)
 - [Meet the Composer / New Music USA Commissioning Guide](https://newmusicusa.org/wp-content/uploads/2021/06/Commissioning-Music-A-Basic-Guide.pdf)
 
 ## Sites, periodicals, and podcasts
