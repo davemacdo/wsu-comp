@@ -86,7 +86,6 @@ Writing music is a _practice_. Getting in a habit of regular writing is just as 
 # Studio resources
 
 - [Composition Major Application Portfolio Guide](https://www.craft.do/s/d3KauwK0mA4lvq) (applying for upper division studies, MUSC 560)
-- [Critical Response Process for Composers](https://www.craft.do/s/gYSLZVMlUyCgUs)
 
 ## Wichita State composition degrees
 
