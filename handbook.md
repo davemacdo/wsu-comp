@@ -120,11 +120,13 @@ Do not submit “project” files from notation applications (.dorico, .sib, .ms
 
 Once you have compiled all the components of the submission, compress them into a single .zip file and upload to Blackboard.
 
-# Composition Barrier Portfolio
+# Upper-level portfolio review
 
 To be admitted to upper-division composition lessons (MUSC 560 and above), students must submit a portfolio upon successfully completing MUSC 260 Beginning Composition. The portfolio should consist of composition that the applicant feels represent their best and most mature work, ideally completed through their composition studies at WSU.
 
-In most cases, students should also have completed MUSC 113 Music in Context, piano proficiency, and four semesters of music theory and aural skills. Students are also required to meet jury and other expectations in their primary applied area, according to the guidelines of that area.
+In most cases, students should also have completed MUSC 113 Music in Context, piano proficiency, and four semesters of music theory and aural skills. Students are also required to meet jury and other expectations in their primary applied area, according to the guidelines of that area. 
+
+[Complete portfolio guidelines available here.]({% link portfolio.review.md %})
 
 ## Portfolio guidelines
 
