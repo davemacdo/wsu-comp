@@ -83,6 +83,12 @@ Writing music is a _practice_. Getting in a habit of regular writing is just as 
 - **MUSC 560 and 660**: 45-60 minutes, _every day_
 - **MUSC 860 and above**: 60+ minutes, _every day_
 
+# Lesson attendance policy
+
+Each student will have a 50-minute lesson each week, beginning in Week 2 of the semester. Lessons may need to be rescheduled for student events, travel, illness, etc. Make-up lessons will be offered at the instructor's discretion, and are not available for non-emergency no-shows. 
+
+Students must arrive at lessons on time. Students arriving late will be penalized two lesson points after five minutes and four lesson points after ten minutes. Students arriving more than fifteen minutes after their scheduled lesson time will be counted as an unexcused absence. Unexcused absences will result in a zero for the lesson, and these lessons _will not be made up._ When running late or otherwise unavailable, it is the student's responsibility to inform the professor as early as possible. 
+
 ## Wichita State composition degrees
 
 - [Bachelor of Music in Composition degree requirements](http://catalog.wichita.edu/undergraduate/fine-arts/music/bachelor-music-requirements/composition-bm/)
@@ -127,7 +133,6 @@ To be admitted to upper-division composition lessons (MUSC 560 and above), stude
 In most cases, students should also have completed MUSC 113 Music in Context, piano proficiency, and four semesters of music theory and aural skills. Students are also required to meet jury and other expectations in their primary applied area, according to the guidelines of that area. 
 
 The deadline for submitting the portfolio will be announced to students enrolled in MUSC 260, and will usually be the study day (before exams week) of the semester before the student intends to enroll in upper-level composition coursework. 
-
 
 ## Portfolio guidelines
 
