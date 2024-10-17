@@ -126,7 +126,8 @@ To be admitted to upper-division composition lessons (MUSC 560 and above), stude
 
 In most cases, students should also have completed MUSC 113 Music in Context, piano proficiency, and four semesters of music theory and aural skills. Students are also required to meet jury and other expectations in their primary applied area, according to the guidelines of that area. 
 
-[Complete portfolio guidelines available here.]({% link portfolio.review.md %})
+The deadline for submitting the portfolio will be announced to students enrolled in MUSC 260, and will usually be the study day (before exams week) of the semester before the student intends to enroll in upper-level composition coursework. 
+
 
 ## Portfolio guidelines
 
