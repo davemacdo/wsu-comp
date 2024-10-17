@@ -83,10 +83,6 @@ Writing music is a _practice_. Getting in a habit of regular writing is just as 
 - **MUSC 560 and 660**: 45-60 minutes, _every day_
 - **MUSC 860 and above**: 60+ minutes, _every day_
 
-# Studio resources
-
-- [Composition Major Application Portfolio Guide](https://www.craft.do/s/d3KauwK0mA4lvq) (applying for upper division studies, MUSC 560)
-
 ## Wichita State composition degrees
 
 - [Bachelor of Music in Composition degree requirements](http://catalog.wichita.edu/undergraduate/fine-arts/music/bachelor-music-requirements/composition-bm/)
