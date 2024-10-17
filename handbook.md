@@ -91,8 +91,8 @@ Students must arrive at lessons on time. Students arriving late will be penalize
 
 ## Wichita State composition degrees
 
-- [Bachelor of Music in Composition degree requirements](http://catalog.wichita.edu/undergraduate/fine-arts/music/bachelor-music-requirements/composition-bm/)
-- [Master of Music in Composition degree requirements](http://catalog.wichita.edu/graduate/fine-arts/music/musicology-composition/mm-composition-concentration/#requirementstext)
+- [Bachelor of Music in Composition degree requirements](http://catalog.wichita.edu/undergraduate/fine-arts/music/bm-composition/#requirementstext)
+- [Master of Music in Composition degree requirements](http://catalog.wichita.edu/graduate/fine-arts/music/mm-composition-concentration/#requirementstext)
 
 # Composition Juries
 
