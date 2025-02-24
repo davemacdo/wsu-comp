@@ -32,7 +32,8 @@ _Note: Submissions below should be sent as links to cloud-shared folders in Drop
 
 ### Recital Hearing: Due two weeks before the recital date
 
-- Submit a complete rehearsal run-through recording of each piece on your recital. You should be present for this recording if possible. 
+- Submit a complete rehearsal run-through recording of each piece on your recital. _You should be present for this recording._ 
+- You can check out a handheld recorder from Dr. MacDonald to help with this process. 
 - The recording doesn't need to be perfect. It can have flaws or be slightly under-tempo, but it needs to be without stops. 
 - All personnel on the recording must be the same as the personnel on your recital program. 
 
