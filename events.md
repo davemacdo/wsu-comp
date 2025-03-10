@@ -4,24 +4,23 @@ title: Events
 
 Attendance at the following events is _required_ for all composition majors. 
 
-**WSU Symphony Orchestra**  
-Tue, 29 Oct 2024, 7:30p  
+**Molly Kay Wenzel, senior composition recital _(rescheduled for snow day!)_**  
+Tue, 25 Feb 2025, 2:30p  
 Miller Concert Hall  
-World premiere of a new violin concerto by [Robert Hagenbuch, Jr.](https://www.roberthagenbuchjr.com/)
 
-**KNOB Festival of New Music**  
-7-9 Nov 2024, 8:00p  
-Fisch Haus (524 S Commerce St)  
-Students are required to attend at least one night of KNOB, and it would be great if you could swing more than that.
+**Brandon Montgomery, senior composition recital**  
+Tue, 8 Apr 2025, 2:30p  
+Miller Concert Hall  
 
-**Emma Lippert, senior composition recital**  
-Tue, 12 Nov 2024, 2:30p  
+**Chase Hampton, masters thesis performance**  
+Fri, 4 Apr 2025, 6:00p  
+Harvester Arts  
+The Lux, 120 E 1st St (downtown Wichita)  
+
+**Nathaniel Tompkins, senior composition recital**  
+Sat, 19 Apr 2025, 7:30p  
 Miller Concert Hall  
 
 **Impulse Percussion Group**  
-Mon, 25 Nov 2024, 7:30p  
-Miller Concert Hall  
-
-**Morgan Hunt, senior composition recital**  
-Tue, 26 Nov 2024, 7:30p  
+Mon, 28 Apr 2025, 7:30p  
 Miller Concert Hall  
