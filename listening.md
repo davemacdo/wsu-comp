@@ -1,34 +1,32 @@
 See studio class Discord for discussions and listening links. 
 
-## Fall 2024
+## Spring 2025
 
 - Week 2
-	- Laura Schwendinger: _Creature Quartet_ (2015)
+	- Neil Anderson-Himmelspach: _Fourier Transform No. 1: Bass Clarinet_ (2019)
 - Week 3
-    - Olly Wilson: _A City Called Heaven_ (1998) 
+	- Ricardo Lorenz: _El Muro_ (2008)
 - Week 4
-	- Thomas Adés: _Catch_ (1991)
+	- Rebecca Clarke: Viola Sonata
 - Week 5
-	- William Albright: _Doo-dah_ (1975)
+	- Martin Blessinger: _Rhapsody for Flute and Orchestra_ 
 - Week 6
-	- Luciano Berio: _Sequenza VII for Oboe_ (1969)
+	- Stefan Freund: _Screams and Grooves_ 
 - Week 7
-	- Steven Mackey: _It Is Time_ (2010)
+	- Alla Pavlova: _Old New York Nostalgia Suite_ (1998) 
 - Week 8
-	- Joan Tower: _Sixth Fanfare for the Uncommon Woman_ (2014)
+	- Michael Fiday: _Same Rivers Different_ 
 - Week 9
-	- no assignment 🍂 break
+	- David Biedenbender: _Refraction_
 - Week 10
-	- Timo Andres: _Checkered Shade_ (2015)
+	- Jennifer Jolley: _The Eyes of the World Are Upon You_
 - Week 11
-	- Tania León: _One Mo' Time_ (2016)
+	- Pierre Boulez: _Domaines_ 
 - Week 12
-	- Charles Ives: _The Unanswered Question_ (1908)
+	- Peter Steiner: "Till Meyn" from _Chronokinetic_ 
 - Week 13
-	- Lūcija Garūta: _God, Your Land is Burning!_ (1943)
+	- Alexis Bacon: _Excellent Sheep_
 - Week 14
-	- Edward Elgar: _Introduction and Allegro_ (1905)
+	- Ives: _Concord Sonata_
 - Week 15
-	- no assignment 🦃 break
-- Week 16
-	- György Ligeti: _L'escalier du diable_ from Piano Études, Book 2 (1988-94)
+	- Zhou Tian: _Sinfonia for Wind Ensemble_
