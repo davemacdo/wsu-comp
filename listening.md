@@ -23,7 +23,7 @@ See studio class Discord for discussions and listening links.
 - Week 11
 	- Pierre Boulez: _Domaines_ 
 - Week 12
-	- Peter Steiner: "Till Meyn" from _Chronokinetic_ 
+	- Till Meyn: excerpts from _Chronokinetic_  
 - Week 13
 	- Alexis Bacon: _Excellent Sheep_
 - Week 14
