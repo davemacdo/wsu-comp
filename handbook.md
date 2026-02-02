@@ -59,9 +59,8 @@ All composition studio members are eligible to present works on composition reci
 
 - Your name
 - Title of your work
-- Instrumentation
 - Approximate duration
-- Performers' names and instruments/voice types
+- Performers' names with instruments/voice types
 - Program note
 
 **Two weeks before** the date of the performance, please submit a rehearsal recording of your piece to Dr. MacDonald. It doesn't have to be fancy. A recording from your phone is fine. *Failure to submit this recording will result in your piece being pulled from the program.*
