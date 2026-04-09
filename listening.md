@@ -4,44 +4,44 @@ See studio class Discord for discussions and listening links.
 
 - Week 2
 	- Joan Tower: _Copperwave_
-	- https://youtu.be/uzMnfnY3I0c
-- Week 3
+	- <https://youtu.be/uzMnfnY3I0c>
+- Week> 3
 	- David Lang: _Just (After Song of Songs)_
-	- https://davidlangmusic.com/music/just-after-song-of-songs/
+	- <https://davidlangmusic.com/music/just-after-song-of-songs/>
 - Week 4
 	- Sofia Gubaidulina: _Offertorium_
-	- https://youtu.be/xvHeTWOfL1c
-- Week 5
+	- <https://youtu.be/xvHeTWOfL1c>
+- Week> 5
 	- Viet Cuong: _Evergreen_
-	- https://www.youtube.com/live/M0Bcq3VeKTQ?t=1601 (time-stamped link)
+	- <https://www.youtube.com/live/M0Bcq3VeKTQ?t=1601> (time-stamped link)
 - Week 6
 	- Igor Stravinsky: _Soldier's Tale_
-	- https://youtu.be/fYUqOwQsquk (scrolling score)
-	- https://www.youtube.com/playlist?list=OLAK5uy_l5F_wh4k8hhT79z2yvSxYFDwPY9glvcrk (Jeremy Irons recording)
+	- <https://youtu.be/fYUqOwQsquk> (scrolling score)
+	- <https://www.youtube.com/playlist?list=OLAK5uy_l5F_wh4k8hhT79z2yvSxYFDwPY9glvcrk> (Jeremy Irons recording)
 - Week 7
 	- Morton Feldman: _Rothko Chapel_
-	- https://youtu.be/ZGuv84Q9awc
+	- <https://youtu.be/ZGuv84Q9awc>
 - Week 8
 	- Joseph Schwantner: _…and the mountains rising nowhere…_
-	- https://youtu.be/PKFnUk51Nig (scrolling score)
-	- https://youtu.be/mhsXdvQk8mw (live performance)
+	- <https://youtu.be/PKFnUk51Nig> (scrolling score)
+	- <https://youtu.be/mhsXdvQk8mw> (live performance)
 - Week 9
 	- Alfred Schnittke: Concerto Grosso No. 1
-	- https://youtu.be/4RrLWema4tU
+	- <https://youtu.be/4RrLWema4tU>
 - Week 10
 	- David Biedenbender: _Refraction_
-	- https://youtube.com/playlist?list=OLAK5uy_ljKCOSzGs08DgIZrICC1InUhzM12RjC7Q
+	- <https://youtube.com/playlist?list=OLAK5uy_ljKCOSzGs08DgIZrICC1InUhzM12RjC7Q>
 - Week 11
 	- Charles Whittenberg: _Triptych_
-	- https://youtube.com/playlist?list=OLAK5uy_ljKCOSzGs08DgIZrICC1InUhzM12RjC7Q (first three tracks only)
+	- <https://youtube.com/playlist?list=OLAK5uy_ljKCOSzGs08DgIZrICC1InUhzM12RjC7Q> (first three tracks only)
 - Week 12
 	- Dmitri Shostakovich: Symphony No. 9
 - Week 13
 	- Louis Andriessen: _Hoketus_
-	- https://youtu.be/73L2Mbi86HU
+	- <https://youtu.be/73L2Mbi86HU>
 - Week 14
 	- George Walker: _Lilacs_
-	- https://youtu.be/bEAZm8kSRhE?t=131
+	- <https://youtu.be/bEAZm8kSRhE?t=131>
 - Week 15
 	- Mason Bates: _Alternative Energy_
-	- https://youtube.com/playlist?list=PL9O2Vx6Aqkd4dzFKg3vs8ON4JHomcwbdc
+	- <https://youtube.com/playlist?list=PL9O2Vx6Aqkd4dzFKg3vs8ON4JHomcwbdc>
