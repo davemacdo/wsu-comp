@@ -1,32 +1,47 @@
 See studio class Discord for discussions and listening links. 
 
-## Spring 2025
+## Spring 2026
 
 - Week 2
-	- Neil Anderson-Himmelspach: _Fourier Transform No. 1: Bass Clarinet_ (2019)
+	- Joan Tower: _Copperwave_
+	- https://youtu.be/uzMnfnY3I0c
 - Week 3
-	- Ricardo Lorenz: _El Muro_ (2008)
+	- David Lang: _Just (After Song of Songs)_
+	- https://davidlangmusic.com/music/just-after-song-of-songs/
 - Week 4
-	- Rebecca Clarke: Viola Sonata
+	- Sofia Gubaidulina: _Offertorium_
+	- https://youtu.be/xvHeTWOfL1c
 - Week 5
-	- Martin Blessinger: _Rhapsody for Flute and Orchestra_ 
+	- Viet Cuong: _Evergreen_
+	- https://www.youtube.com/live/M0Bcq3VeKTQ?t=1601 (time-stamped link)
 - Week 6
-	- Stefan Freund: _Screams and Grooves_ 
+	- Igor Stravinsky: _Soldier's Tale_
+	- https://youtu.be/fYUqOwQsquk (scrolling score)
+	- https://www.youtube.com/playlist?list=OLAK5uy_l5F_wh4k8hhT79z2yvSxYFDwPY9glvcrk (Jeremy Irons recording)
 - Week 7
-	- Alla Pavlova: _Old New York Nostalgia Suite_ (1998) 
+	- Morton Feldman: _Rothko Chapel_
+	- https://youtu.be/ZGuv84Q9awc
 - Week 8
-	- Michael Fiday: _Same Rivers Different_ 
+	- Joseph Schwantner: _…and the mountains rising nowhere…_
+	- https://youtu.be/PKFnUk51Nig (scrolling score)
+	- https://youtu.be/mhsXdvQk8mw (live performance)
 - Week 9
-	- David Biedenbender: _Refraction_
+	- Alfred Schnittke: Concerto Grosso No. 1
+	- https://youtu.be/4RrLWema4tU
 - Week 10
-	- Jennifer Jolley: _The Eyes of the World Are Upon You_
+	- David Biedenbender: _Refraction_
+	- https://youtube.com/playlist?list=OLAK5uy_ljKCOSzGs08DgIZrICC1InUhzM12RjC7Q
 - Week 11
-	- Pierre Boulez: _Domaines_ 
+	- Charles Whittenberg: _Triptych_
+	- https://youtube.com/playlist?list=OLAK5uy_ljKCOSzGs08DgIZrICC1InUhzM12RjC7Q (first three tracks only)
 - Week 12
-	- Till Meyn: excerpts from _Chronokinetic_  
+	- Dmitri Shostakovich: Symphony No. 9
 - Week 13
-	- Alexis Bacon: _Excellent Sheep_
+	- Louis Andriessen: _Hoketus_
+	- https://youtu.be/73L2Mbi86HU
 - Week 14
-	- Ives: _Concord Sonata_
+	- George Walker: _Lilacs_
+	- https://youtu.be/bEAZm8kSRhE?t=131
 - Week 15
-	- Zhou Tian: _Sinfonia for Wind Ensemble_
+	- Mason Bates: _Alternative Energy_
+	- https://youtube.com/playlist?list=PL9O2Vx6Aqkd4dzFKg3vs8ON4JHomcwbdc
