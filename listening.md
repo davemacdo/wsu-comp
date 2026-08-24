@@ -4,44 +4,44 @@ See studio class Discord for discussions and listening links.
 
 - Week 2
 	- Christopher Cerrone: _New Addresses_ (2020) 
-	- https://youtu.be/ftWm1JXVfGo
+	- <https://youtu.be/ftWm1JXVfGo>
 - Week 3
 	- Tania León: _Indígena_ (1991) 
-	- https://youtu.be/PoWazq0c1OE
+	- <https://youtu.be/PoWazq0c1OE>
 - Week 4
 	- Andrew Yee: _Trans Requiem_ (2026) 
-	- https://andrewyee.bandcamp.com/album/trans-requiem
+	- <https://youtube.com/playlist?list=OLAK5uy_mfuA72ckLd1RsLTQoEP_Afaja6ywojjmI>
 - Week 5
 	- Olly Wilson: _A City Called Heaven_ (1998) 
-	- https://youtube.com/playlist?list=OLAK5uy_l62Q_S8gLjxm-wbYpPBHwO5mrWBhHUM3c
+	- <https://youtube.com/playlist?list=OLAK5uy_l62Q_S8gLjxm-wbYpPBHwO5mrWBhHUM3c>
 - Week 6
 	- Sky Macklay: _Choppy_ (2019) 
-	- https://youtu.be/r3-x5Va55VU
+	- <https://youtu.be/r3-x5Va55VU>
 - Week 7
 	- Katherine Balch: _drip music_ (2019)
-	- https://youtu.be/Tczl9MdcmNM
+	- <https://youtu.be/Tczl9MdcmNM>
 - Week 8
 	- Béla Bartók: Concerto for Orchestra (1943) 
-	- https://youtu.be/qnIY6gm0RKw
+	- <https://youtu.be/qnIY6gm0RKw>
 - Week 9
 	- No listening, Fall Break
 - Week 10
 	- Laura Schwendinger: _Creature Quartet_ (2015)
-	- https://youtube.com/playlist?list=PL9O2Vx6Aqkd7NJKMWJHEa9VByXyTk-b6v
+	- <https://youtube.com/playlist?list=PL9O2Vx6Aqkd7NJKMWJHEa9VByXyTk-b6v>
 - Week 11
 	- Joan Tower: _Sixth Fanfare for the Uncommon Woman_ (2014)
-	- https://youtu.be/g1xEbvXGU28
+	- <https://youtu.be/g1xEbvXGU28>
 - Week 12
 	- Steven Mackey: _It Is Time_ (2010)
-	- https://youtu.be/qTeFWzIMQuY
+	- <https://youtu.be/qTeFWzIMQuY>
 - Week 13
 	- Charles Ives: _The Unanswered Question_ (1908)
-	- https://youtu.be/kkaOz48cq2g
+	- <https://youtu.be/kkaOz48cq2g>
 - Week 14
 	- Lūcija Garūta: _God, Your Land is Burning!_ (1943)
-	- https://youtu.be/6-QPtjbxtJM
+	- <https://youtu.be/6-QPtjbxtJM>
 - Week 15
 	- No listening, Thanksgiving Break
 - Week 16
 	- Caroline Shaw: _Plan and Elevation_ (2015)
-	- https://youtu.be/eIEI80LfaMk
+	- <https://youtu.be/eIEI80LfaMk>
