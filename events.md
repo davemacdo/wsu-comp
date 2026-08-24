@@ -4,23 +4,19 @@ title: Events
 
 Attendance at the following events is _required_ for all composition majors. 
 
-**Molly Kay Wenzel, senior composition recital _(rescheduled for snow day!)_**  
-Tue, 25 Feb 2025, 2:30p  
-Miller Concert Hall  
-
-**Chase Hampton, masters thesis performance**  
-Fri, 4 Apr 2025, 6:00p  
-Harvester Arts  
-The Lux, 120 E 1st St (downtown Wichita)  
-
-**Brandon Montgomery, senior composition recital**  
-Tue, 8 Apr 2025, 2:30p  
-Miller Concert Hall  
-
-**Nathaniel Tompkins, senior composition recital**  
-Sat, 19 Apr 2025, 7:30p  
+**WSU Symphony Orchestra** performing Dr. MacDonald's _What. On Earth. Was That._  
+Thu, 12 Nov 2026, 7:30p  
 Miller Concert Hall  
 
 **Impulse Percussion Group**  
-Mon, 28 Apr 2025, 7:30p  
+Mon, 23 Nov 2026, 7:30p  
 Miller Concert Hall  
+
+**OLEA Ensemble residency** (proposed, final details TBD)  
+26-29 Jan 2027  
+various locations and events
+
+**KNOB Festival of New Music**  
+28-30 Jan 2027
+evening concerts at Fisch Haus  
+524 S. Commerce St.  

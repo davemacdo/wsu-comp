@@ -3,45 +3,44 @@ See studio class Discord for discussions and listening links.
 ## Spring 2026
 
 - Week 2
-	- Joan Tower: _Copperwave_
-	- <https://youtu.be/uzMnfnY3I0c>
-- Week> 3
-	- David Lang: _Just (After Song of Songs)_
-	- <https://davidlangmusic.com/music/just-after-song-of-songs/>
+	- Christopher Cerrone: _New Addresses_ (2020) 
+	- https://youtu.be/ftWm1JXVfGo
+- Week 3
+	- Tania León: _Indígena_ (1991) 
+	- https://youtu.be/PoWazq0c1OE
 - Week 4
-	- Sofia Gubaidulina: _Offertorium_
-	- <https://youtu.be/xvHeTWOfL1c>
-- Week> 5
-	- Viet Cuong: _Evergreen_
-	- <https://www.youtube.com/live/M0Bcq3VeKTQ?t=1601> (time-stamped link)
+	- Andrew Yee: _Trans Requiem_ (2026) 
+	- https://andrewyee.bandcamp.com/album/trans-requiem
+- Week 5
+	- Olly Wilson: _A City Called Heaven_ (1998) 
+	- https://youtube.com/playlist?list=OLAK5uy_l62Q_S8gLjxm-wbYpPBHwO5mrWBhHUM3c
 - Week 6
-	- Igor Stravinsky: _Soldier's Tale_
-	- <https://youtu.be/fYUqOwQsquk> (scrolling score)
-	- <https://www.youtube.com/playlist?list=OLAK5uy_l5F_wh4k8hhT79z2yvSxYFDwPY9glvcrk> (Jeremy Irons recording)
+	- Sky Macklay: _Choppy_ (2019) 
+	- https://youtu.be/r3-x5Va55VU
 - Week 7
-	- Morton Feldman: _Rothko Chapel_
-	- <https://youtu.be/ZGuv84Q9awc>
+	- Katherine Balch: _drip music_ (2019)
+	- https://youtu.be/Tczl9MdcmNM
 - Week 8
-	- Joseph Schwantner: _…and the mountains rising nowhere…_
-	- <https://youtu.be/PKFnUk51Nig> (scrolling score)
-	- <https://youtu.be/mhsXdvQk8mw> (live performance)
+	- Béla Bartók: Concerto for Orchestra (1943) 
+	- https://youtu.be/qnIY6gm0RKw
 - Week 9
-	- Alfred Schnittke: Concerto Grosso No. 1
-	- <https://youtu.be/4RrLWema4tU>
+	- No listening, Fall Break
 - Week 10
-	- David Biedenbender: _Refraction_
-	- <https://youtube.com/playlist?list=OLAK5uy_ljKCOSzGs08DgIZrICC1InUhzM12RjC7Q>
+	- Laura Schwendinger: _Creature Quartet_ (2015)
+	- https://youtube.com/playlist?list=PL9O2Vx6Aqkd7NJKMWJHEa9VByXyTk-b6v
 - Week 11
-	- Charles Whittenberg: _Triptych_
-	- <https://youtube.com/playlist?list=OLAK5uy_ljKCOSzGs08DgIZrICC1InUhzM12RjC7Q> (first three tracks only)
+	- Joan Tower: _Sixth Fanfare for the Uncommon Woman_ (2014)
+	- https://youtu.be/g1xEbvXGU28
 - Week 12
-	- Dmitri Shostakovich: Symphony No. 9
+	- Steven Mackey: _It Is Time_ (2010)
+	- https://youtu.be/qTeFWzIMQuY
 - Week 13
-	- Louis Andriessen: _Hoketus_
-	- <https://youtu.be/73L2Mbi86HU>
+	- Charles Ives: _The Unanswered Question_ (1908)
+	- https://youtu.be/kkaOz48cq2g
 - Week 14
-	- George Walker: _Lilacs_
-	- <https://youtu.be/bEAZm8kSRhE?t=131>
+	- Lūcija Garūta: _God, Your Land is Burning!_ (1943)
+	- https://youtu.be/6-QPtjbxtJM
 - Week 15
-	- Mason Bates: _Alternative Energy_
-	- <https://youtube.com/playlist?list=PL9O2Vx6Aqkd4dzFKg3vs8ON4JHomcwbdc>
+	- No listening, Thanksgiving Break
+- Week 16
+	- Caroline Shaw: _Plan and Elevation_ (2015)
