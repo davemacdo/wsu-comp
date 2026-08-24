@@ -4,7 +4,8 @@ title: Events
 
 Attendance at the following events is _required_ for all composition majors. 
 
-**WSU Symphony Orchestra** performing Dr. MacDonald's _What. On Earth. Was That._  
+**WSU Symphony Orchestra**  
+performing Dr. MacDonald's _What. On Earth. Was That._  
 Thu, 12 Nov 2026, 7:30p  
 Miller Concert Hall  
 
