@@ -44,3 +44,4 @@ See studio class Discord for discussions and listening links.
 	- No listening, Thanksgiving Break
 - Week 16
 	- Caroline Shaw: _Plan and Elevation_ (2015)
+	- https://youtu.be/eIEI80LfaMk
