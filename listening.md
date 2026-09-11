@@ -1,6 +1,6 @@
 See studio class Discord for discussions and listening links. 
 
-## Spring 2026
+## Fall 2026
 
 - Week 2
 	- Christopher Cerrone: _New Addresses_ (2020) 
